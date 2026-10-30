@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Modern & Luxury Hotel",
+  "description": "Modern luxury oceanfront hotel and suites showcase featuring interactive room reservations, thermal spa & fitness facilities, and curated visual galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
